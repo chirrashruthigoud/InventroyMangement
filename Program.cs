@@ -10,8 +10,8 @@ namespace InventoryManagement
 
             InventoryDetails data = fetchInvertory.Read(path);
 
-            Console.WriteLine("Types of Rice");
             Console.WriteLine("***********************************");
+            Console.WriteLine("Types of Rice");
             Console.WriteLine("***********************************");
             for (int i = 0; i < data.typesOfRice.Count; i++)
             {
