@@ -17,5 +17,46 @@
       "weight": 8,
       "price": 600
     }
+  ],
+
+  "TypesOfPulses": [
+    {
+      "name": "GreenGram",
+      "weight": 3,
+      "price": 60
+    },
+    {
+
+      "name": "Dal",
+      "weight": 9,
+      "price": 200
+    },
+    {
+
+      "name": "HorseGram",
+      "weight": 8,
+      "price": 100
+    }
+  ],
+
+  "TypesOfWheat": [
+    {
+      "name": "Wheat1",
+      "weight": 3,
+      "price": 60
+    },
+    {
+
+      "name": "Wheat2",
+      "weight": 9,
+      "price": 200
+    },
+    {
+
+      "name": "Wheat3",
+      "weight": 8,
+      "price": 100
+    }
   ]
+
 }
