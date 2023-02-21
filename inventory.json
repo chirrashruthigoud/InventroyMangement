@@ -2,20 +2,20 @@
   "TypesOfRice": [
     {
       "name": "Basumathi",
-      "weight": 3,
-      "price": 60
+      "weight": 2,
+      "price": 40
     },
     {
 
       "name": "rice1",
-      "weight": 9,
-      "price": 200
+      "weight": 4,
+      "price": 70
     },
     {
 
       "name": "rice2",
-      "weight": 8,
-      "price": 600
+      "weight": 6,
+      "price": 170
     }
   ],
 
@@ -34,22 +34,22 @@
     {
 
       "name": "HorseGram",
-      "weight": 8,
-      "price": 100
+      "weight": 9,
+      "price": 90
     }
   ],
 
   "TypesOfWheat": [
     {
       "name": "Wheat1",
-      "weight": 3,
-      "price": 60
+      "weight": 8,
+      "price": 160
     },
     {
 
       "name": "Wheat2",
-      "weight": 9,
-      "price": 200
+      "weight": 7,
+      "price": 80
     },
     {
 
