@@ -1,21 +1,8 @@
 {
-  "TypesOfRice": [
-    {
+  "TypesOfRice":  {
       "name": "Basumathi",
       "weight": 3,
       "price": 60
-    },
-    {
-
-      "name": "rice1",
-      "weight": 9,
-      "price": 200
-    },
-    {
-
-      "name": "rice2",
-      "weight": 8,
-      "price": 600
     }
-  ]
+   
 }
