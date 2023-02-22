@@ -1,62 +1,8 @@
 {
-  "TypesOfRice": [
-    {
-      "name": "Basumathi",
-      "weight": 2,
-      "price": 40
-    },
-    {
+  "TypesOfStock": {
+    "stockname": "Tata",
+    "numberofshare": 3,
+    "shareprice": 60
+  }
 
-      "name": "rice1",
-      "weight": 4,
-      "price": 70
-    },
-    {
-
-      "name": "rice2",
-      "weight": 6,
-      "price": 170
-    }
-  ],
-
-  "TypesOfPulses": [
-    {
-      "name": "GreenGram",
-      "weight": 3,
-      "price": 60
-    },
-    {
-
-      "name": "Dal",
-      "weight": 9,
-      "price": 200
-    },
-    {
-
-      "name": "HorseGram",
-      "weight": 9,
-      "price": 90
-    }
-  ],
-
-  "TypesOfWheat": [
-    {
-      "name": "Wheat1",
-      "weight": 8,
-      "price": 160
-    },
-    {
-
-      "name": "Wheat2",
-      "weight": 7,
-      "price": 80
-    },
-    {
-
-      "name": "Wheat3",
-      "weight": 8,
-      "price": 100
-    }
-  ]
-
-}
+  }
