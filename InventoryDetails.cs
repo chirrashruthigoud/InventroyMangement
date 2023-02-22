@@ -9,7 +9,7 @@ namespace InventoryManagement
 {
     public class InventoryDetails
     {
-        public TypesOfStock typesofstock;
+        public List<TypesOfStock> typesofstock;
 
     }
     public class TypesOfStock
